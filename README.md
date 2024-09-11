@@ -1,4 +1,4 @@
-# Spatial Data Scientist
+# Aspiring Spatial Data Scientist
 Welcome to my spatial data science portfolio!
 
 ### Education
