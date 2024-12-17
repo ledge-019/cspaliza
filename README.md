@@ -48,11 +48,14 @@ Performed spatial statistical analysis to examine housing price patterns across 
 * **Visualization:** Mapped and visualized results to highlight housing price trends.
 
 #### Dependencies
-<img src="/images/pandas.png" alt="Alt text" width="300"> <img src="/images/numpy.png" alt="Alt text" width="300"> <img src="/images/numpy.png" alt="Alt text" width="300"> <img src="/images/geopandas_logo.png" alt="Alt text" width="250"> 
+<img src="/images/pandas.png" alt="Alt text" width="300"> <img src="/images/numpy.png" alt="Alt text" width="300"> 
+<img src="/images/netx.png" alt="Alt text" width="300"> <img src="/images/geopandas_logo.png" alt="Alt text" width="250"> 
 #### Sample Outputs
+<img src="/images/corr.png" alt="Alt text" width="700">
+
 #### Link to Project: [GE 197: Exercise 2 - Spatial Statistics on TripAdvisor Data](https://colab.research.google.com/drive/1R9CaRlqx5I4FenRY3xdEiOuz5n2sD4A0?usp=sharing)
 
-### 3. Accessibility and Centrality Analysis
+### 3. Accessibility and Centrality Analysis (Team)
 
 #### Description 
 This code analyzes and visualizes travel times to universities in urban cities under normal and disrupted road conditions using isochrone mapping and centrality analysis.
@@ -60,9 +63,15 @@ This code analyzes and visualizes travel times to universities in urban cities u
 * **Isochrone Mapping:** Used isochrone maps to illustrate ideal and actual travel times before and after road disruptions.
 * **Centrality Analysis:** Performed centrality analysis to identify critical road segments impacting travel times.
 * **Visualization:** Visualized findings to highlight travel accessibility challenges and opportunities for improvement.
-
 #### Dependencies
+<img src="/images/pandas.png" alt="Alt text" width="300"> <img src="/images/numpy.png" alt="Alt text" width="300"> 
+<img src="/images/netx.png" alt="Alt text" width="300"> <img src="/images/geopandas_logo.png" alt="Alt text" width="250"> 
+
 #### Sample Outputs
+<img src="/images/isochroneMM.jpg" alt="Alt text" width="500"> <img src="/images/IsochroneMMwithinterruptions.jpg" alt="Alt text" width="500"> 
+<img src="/images/isochroneQC.jpg" alt="Alt text" width="500"> <img src="/images/IsochroneQCwithinterruptions.jpg" alt="Alt text" width="500"> 
+
+
 #### Link to Project: [GE 197: Capstone Project - Byaheng Late: Evaluating University Accessibility and Road Disruption using Isochrone and Centrality Analysis](https://colab.research.google.com/drive/1XcDv72xO9irIfRpr47ivaLLsaMxXEBOt?usp=sharing)
 
 ### 4. Nighttime Light and Carbon Monoxide Modeling
@@ -76,7 +85,9 @@ This script models the relationship between Nighttime Light (NTL) and Carbon Mon
 * **Interpret Findings:** Analyze the correlation between human activity and pollution.
 
 
-#### Dependencies
+#### Dependency
+<img src="/images/gee.png" alt="Alt text" width="250"> 
+
 #### Link to Project: [Google Earth Engine Projects](https://code.earthengine.google.com/?accept_repo=users/cspaliza/GsE_189)
 
 
