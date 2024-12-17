@@ -1,6 +1,8 @@
 # Aspiring Spatial Data Scientist
 Welcome to my spatial data science portfolio!
 
+I am passionate about using spatial data to solve real-world problems through GIS, remote sensing, and data analytics. My projects focus on urban planning, disaster mitigation, and socioeconomic analysis, showcasing my skills in Python, GEE JS API, and QGIS.
+
 ### Education
 4th year BS Geodetic Engineering student, University of the Philippines
 
