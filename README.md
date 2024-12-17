@@ -28,7 +28,11 @@ This code extracts OpenStreetMap (OSM) data to calculate building density for ea
 This analysis supports urban planning initiatives by providing insights into building density patterns across Quezon City.
 
 #### Dependencies
+![This is an alt text.](/images/pandas.png "This is a sample image.")
+![This is an alt text.](/images/numpy.png "This is a sample image.")
+![This is an alt text.](/images/geopandas_logo.png "This is a sample image.")
 #### Sample Outputs
+![This is an alt text.](/images/density map.png "This is a sample image.")
 #### Link to Project: [GE 197: Exercise 1 - Handling Geospatial Data](https://colab.research.google.com/drive/10_zOpsQ1UPAgxYwMC4vzFUI-VobPIBjD?usp=sharing)
     
 
