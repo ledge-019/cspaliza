@@ -11,6 +11,10 @@ Welcome to my spatial data science portfolio!
 
 [Capstone Project](https://colab.research.google.com/drive/1XcDv72xO9irIfRpr47ivaLLsaMxXEBOt?usp=sharing)
 
+[Google Earth Engine Projects](https://code.earthengine.google.com/?accept_repo=users/cspaliza/GsE_189)
+
+
+
 
 
 
