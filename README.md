@@ -5,7 +5,7 @@ Welcome to my spatial data science portfolio!
 4th year BS Geodetic Engineering student, University of the Philippines
 
 ### Projects 
-[Exercise 1](https://colab.research.google.com/drive/10_zOpsQ1UPAgxYwMC4vzFUI-VobPIBjD?usp=sharing)
+[GE 197: Exercise 1 - Handling Geospatial Data](https://colab.research.google.com/drive/10_zOpsQ1UPAgxYwMC4vzFUI-VobPIBjD?usp=sharing)
 
 [Exercise 2](https://colab.research.google.com/drive/1R9CaRlqx5I4FenRY3xdEiOuz5n2sD4A0?usp=sharing)
 
