@@ -28,11 +28,12 @@ This code extracts OpenStreetMap (OSM) data to calculate building density for ea
 This analysis supports urban planning initiatives by providing insights into building density patterns across Quezon City.
 
 #### Dependencies
-![This is an alt text.](/images/pandas.png "This is a sample image.")
-![This is an alt text.](/images/numpy.png "This is a sample image.")
-![This is an alt text.](/images/geopandas_logo.png "This is a sample image.")
-#### Sample Outputs
-![This is an alt text.](/images/density map.png "This is a sample image.")
+<img src="/images/pandas.png" alt="Alt text" width="300"> <img src="/images/numpy.png" alt="Alt text" width="300"> <img src="/images/geopandas_logo.png" alt="Alt text" width="250">
+
+
+#### Sample Output
+<img src="/images/densitymap.png" alt="Alt text" width="500">
+
 #### Link to Project: [GE 197: Exercise 1 - Handling Geospatial Data](https://colab.research.google.com/drive/10_zOpsQ1UPAgxYwMC4vzFUI-VobPIBjD?usp=sharing)
     
 
@@ -47,6 +48,7 @@ Performed spatial statistical analysis to examine housing price patterns across 
 * **Visualization:** Mapped and visualized results to highlight housing price trends.
 
 #### Dependencies
+<img src="/images/pandas.png" alt="Alt text" width="300"> <img src="/images/numpy.png" alt="Alt text" width="300"> <img src="/images/numpy.png" alt="Alt text" width="300"> <img src="/images/geopandas_logo.png" alt="Alt text" width="250"> 
 #### Sample Outputs
 #### Link to Project: [GE 197: Exercise 2 - Spatial Statistics on TripAdvisor Data](https://colab.research.google.com/drive/1R9CaRlqx5I4FenRY3xdEiOuz5n2sD4A0?usp=sharing)
 
