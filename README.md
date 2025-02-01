@@ -90,8 +90,6 @@ This script models the relationship between Nighttime Light (NTL) and Carbon Mon
 
 #### Link to Project: [Google Earth Engine Projects](https://code.earthengine.google.com/?accept_repo=users/cspaliza/GsE_189)
 
-<iframe width="800" height="450" 
-    src="https://www.youtube.com/embed/jixRGMtnpu0" 
-    frameborder="0" allowfullscreen>
-</iframe>
+[![Watch the video]([https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg)](https://youtu.be/dQw4w9WgXcQ](https://www.youtube.com/watch?v=jixRGMtnpu0))
+
 
