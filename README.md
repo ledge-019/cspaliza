@@ -101,6 +101,9 @@ This Earth Engine app visualizes the reforestation efforts of Ecosia in the Phil
 * **Validate Results:** Perform k-fold cross-validation to assess the accuracy and reliability of the model.
 * **Visualize Changes:** Generate interactive maps and time-series visualizations to track reforestation progress.
 
+#### Sample Outputs
+<img src="/images/EarthEngine.png" alt="Alt text" width="700">
+
 #### Link to App Video: [Reforestation Explorer](https://www.youtube.com/watch?v=jixRGMtnpu0)
 
 
