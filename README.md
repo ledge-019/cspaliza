@@ -90,6 +90,17 @@ This script models the relationship between Nighttime Light (NTL) and Carbon Mon
 
 #### Link to Project: [Google Earth Engine Projects](https://code.earthengine.google.com/?accept_repo=users/cspaliza/GsE_189)
 
-[![Watch the video]([https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg)](https://youtu.be/dQw4w9WgXcQ](https://www.youtube.com/watch?v=jixRGMtnpu0))
+### 5. Reforestation Explorer
+
+#### Description
+This Earth Engine app visualizes the reforestation efforts of Ecosia in the Philippines over five years, from 2020 to 2024. The app showcases forest cover changes and highlights areas impacted by Ecosia's tree-planting initiatives. It provides an interactive platform for users to explore annual reforestation progress, promoting awareness of ecosystem restoration and climate resilience efforts.
+
+* **Collect and Process Data:** Gather multi-temporal satellite Sentinel imagery and pre-process it to detect forest cover changes.
+* **Apply Machine Learning Models:** Utilize Random Forest Regression for predictive analysis, ensuring accurate assessment of reforestation impact.
+* **Implement Stratified Sampling:** Apply stratified sampling techniques to ensure balanced and representative data selection.
+* **Validate Results:** Perform k-fold cross-validation to assess the accuracy and reliability of the model.
+* **Visualize Changes:** Generate interactive maps and time-series visualizations to track reforestation progress.
+
+#### Link to App Video: [Reforestation Explorer]([https://code.earthengine.google.com/?accept_repo=users/cspaliza/GsE_189](https://www.youtube.com/watch?v=jixRGMtnpu0))
 
 
