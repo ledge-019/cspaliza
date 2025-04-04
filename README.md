@@ -113,9 +113,14 @@ Due to an NDA agreement, I can only attach a video of the app and not the app li
 
 #### Description
 This is a map that I created for a social science class presentation to visually demonstrate the alarming teenage pregnancy rates in the Philippines in support of the Comprehensive Sexuality Education.
+
 <img src="/images/pregnancy.png" alt="Alt text" width="700">
 
+### 6. 3D Population Map of Legazpi City
 
+#### Description
+A 3D population map of Legazpi city to highlight the growing city of Legazpi. This was rendered using Blender and the map was designed using Canva.
 
+<img src="/images/Legazpi_map.png" alt="Alt text" width="700">
 
 
