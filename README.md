@@ -109,6 +109,13 @@ Due to an NDA agreement, I can only attach a video of the app and not the app li
 
 #### Link to App Video: [Reforestation Explorer](https://www.youtube.com/watch?v=jixRGMtnpu0)
 
+### 6. Teenage Pregnancy Rate in the Philippines
+
+#### Description
+This is a map that I created for a social science class presentation to visually demonstrate the alarming teenage pregnancy rates in the Philippines in support of the Comprehensive Sexuality Education.
+<img src="/images/pregnancy.png" alt="Alt text" width="700">
+
+
 
 
 
