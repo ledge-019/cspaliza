@@ -1,4 +1,4 @@
-# Aspiring Spatial Data Scientist
+# Aspiring Geospatial Data Specialist/Analyst/Scientist
  Welcome to my spatial data science portfolio!
 
 I am passionate about using spatial data to solve real-world problems through GIS, remote sensing, and data analytics. My projects focus on urban planning, disaster mitigation, and socioeconomic analysis, showcasing my skills in Python, GEE JS API, and QGIS.
@@ -121,6 +121,6 @@ This is a map that I created for a social science class presentation to visually
 #### Description
 A 3D population map of Legazpi city to highlight the growing city of Legazpi. This was rendered using Blender and the map was designed using Canva.
 
-<img src="/images/Legazpi_map.png" alt="Alt text" width="700">
+<img src="/images/Legazpi_Map.png" alt="Alt text" width="700">
 
 
