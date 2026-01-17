@@ -128,7 +128,7 @@ A 3D population map of Legazpi city to highlight the growing city of Legazpi. Th
 #### Description
 This map explores the spatial overlap between land surface temperature (LST) and walking accessibility. This was generated using Python, QGIS, and Canva. LST was sourced from Google Earth Engine, walking times from Mapbox API, and hexagon cells using Uber’s H3 cells.
 
-#### Link to [LinkedIn Post]([https://code.earthengine.google.com/?accept_repo=users/cspaliza/GsE_189](https://www.linkedin.com/posts/christon-ledge-paliza_geomatics-accessibility-spatialanalytics-activity-7414203141786632192--HSF?utm_source=share&utm_medium=member_desktop&rcm=ACoAADbRfd8BOLjK6axqeDealjRLmS-bBJk7okM))
+#### Link to [LinkedIn Post](https://www.linkedin.com/posts/christon-ledge-paliza_geomatics-accessibility-spatialanalytics-activity-7414203141786632192--HSF?utm_source=share&utm_medium=member_desktop&rcm=ACoAADbRfd8BOLjK6axqeDealjRLmS-bBJk7okM)
 
 <img src="/images/biv_map.png" alt="Alt text" width="500"> <img src="/images/hist_plot.png" alt="Alt text" width="500">
 
