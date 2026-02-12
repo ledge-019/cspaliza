@@ -9,7 +9,8 @@ I am passionate about using spatial data to solve real-world problems through GI
 ](https://isprs-annals.copernicus.org/articles/X-5-W4-2025/409/2026/)
 
 ## Education
-4th year BS Geodetic Engineering student, University of the Philippines
+* BS Geodetic Engineering, Magna Cum Laude, University of the Philippines
+* 4th placer GELE 2025
 
 ## Work Experience
 * National Mapping and Resource Information Authority (NAMRIA) Intern
