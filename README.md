@@ -3,6 +3,9 @@
 
 I am passionate about using spatial data to solve real-world problems through GIS, remote sensing, and data analytics. My projects focus on urban planning, disaster mitigation, and socioeconomic analysis, showcasing my skills in Python, GEE JS API, and QGIS.
 
+## Publications
+Link to Paper: [Analyzing Economic Spatial Patterns of the Metro Manila Urban Agglomeration using Nighttime Light Data](https://isprs-annals.copernicus.org/articles/X-5-W4-2025/361/2026/isprs-annals-X-5-W4-2025-361-2026.html)
+
 ## Education
 4th year BS Geodetic Engineering student, University of the Philippines
 
