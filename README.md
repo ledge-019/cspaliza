@@ -13,6 +13,7 @@ I am passionate about using spatial data to solve real-world problems through GI
 * 4th placer GELE 2025
 
 ## Work Experience
+* Geospatial Specialist at Propeller Aero
 * National Mapping and Resource Information Authority (NAMRIA) Intern
 * UP Geop EngaGE Mapper
 
