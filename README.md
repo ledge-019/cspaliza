@@ -65,7 +65,7 @@ This Earth Engine app visualizes the reforestation efforts of Ecosia in the Phil
 #### Sample Outputs
 <img src="/images/EarthEngine.png" alt="Alt text" width="700">
 
-#### Note
+#### Note:
 Due to an NDA agreement, I can only attach a video of the app and not the app link itself.
 
 #### Link to App Video: [Reforestation Explorer](https://www.youtube.com/watch?v=jixRGMtnpu0)
