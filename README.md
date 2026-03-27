@@ -39,7 +39,7 @@ Sourced from the 2025 Ookla dataset, this map shows the download speeds per pixe
 
 #### Link to [LinkedIn Post](https://www.linkedin.com/posts/christon-ledge-paliza_geomatics-gis-spatialanalytics-activity-7442840595116572672-gV6p?utm_source=share&utm_medium=member_desktop&rcm=ACoAADbRfd8BOLjK6axqeDealjRLmS-bBJk7okM)
 
-<img src="/images/biv_map.png" alt="Alt text" width="500"> <img src="/images/hist_plot.png" alt="Alt text" width="500">
+<img src="/images/internet_map.png" alt="Alt text" width="500"> <img src="/images/hotspot_map.png" alt="Alt text" width="500"> <img src="/images/morans_i.png" alt="Alt text" width="500">
 
 ### 2. Accessibility and Centrality Analysis (Team)
 
