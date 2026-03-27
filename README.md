@@ -41,7 +41,7 @@ Sourced from the 2025 Ookla dataset, this map shows the download speeds per pixe
 
 <img src="/images/internet_map.png" alt="Alt text" width="300"> <img src="/images/hotspot_map.png" alt="Alt text" width="300"> <img src="/images/morans_i.png" alt="Alt text" width="300">
 
-### 2. Accessibility and Centrality Analysis (Team)
+### 3. Accessibility and Centrality Analysis (Team)
 
 #### Description 
 This code analyzes and visualizes travel times to universities in urban cities under normal and disrupted road conditions using isochrone mapping and centrality analysis.
@@ -60,7 +60,7 @@ This code analyzes and visualizes travel times to universities in urban cities u
 
 #### Link to Project: [GE 197: Capstone Project - Byaheng Late: Evaluating University Accessibility and Road Disruption using Isochrone and Centrality Analysis](https://colab.research.google.com/drive/1XcDv72xO9irIfRpr47ivaLLsaMxXEBOt?usp=sharing)
 
-### 3. Reforestation Explorer
+### 4. Reforestation Explorer
 
 #### Description
 This Earth Engine app visualizes the reforestation efforts of Ecosia in the Philippines over five years, from 2020 to 2024. The app showcases forest cover changes and highlights areas impacted by Ecosia's tree-planting initiatives. It provides an interactive platform for users to explore annual reforestation progress, promoting awareness of ecosystem restoration and climate resilience efforts.
@@ -79,7 +79,7 @@ Due to an NDA agreement, I can only attach a video of the app and not the app li
 
 #### Link to App Video: [Reforestation Explorer](https://www.youtube.com/watch?v=jixRGMtnpu0)
 
-### 4. Nighttime Light and Carbon Monoxide Modeling
+### 5. Nighttime Light and Carbon Monoxide Modeling
 
 #### Description
 This script models the relationship between Nighttime Light (NTL) and Carbon Monoxide (CO) levels in Metro Manila, Philippines. The goal of the analysis is to understand the correlation between urban development, human activity, and pollution levels, particularly focusing on how these variables reflect urbanization patterns and environmental health.
@@ -95,21 +95,21 @@ This script models the relationship between Nighttime Light (NTL) and Carbon Mon
 
 #### Link to Project: [Google Earth Engine Projects](https://code.earthengine.google.com/?accept_repo=users/cspaliza/GsE_189)
 
-### 5. Teenage Pregnancy Rate in the Philippines
+### 6. Teenage Pregnancy Rate in the Philippines
 
 #### Description
 This is a map that I created for a social science class presentation to visually demonstrate the alarming teenage pregnancy rates in the Philippines in support of the Comprehensive Sexuality Education.
 
 <img src="/images/pregnancy.png" alt="Alt text" width="700">
 
-### 6. 3D Population Map of Legazpi City
+### 7. 3D Population Map of Legazpi City
 
 #### Description
 A 3D population map of Legazpi city to highlight the growing city of Legazpi. This was rendered using Blender and the map was designed using Canva.
 
 <img src="/images/Legazpi_Map.png" alt="Alt text" width="700">
 
-### 7. Quezon City Population Density Map
+### 8. Quezon City Population Density Map
 #### Description
 This code extracts OpenStreetMap (OSM) data to calculate building density for each municipality in Quezon City. It utilizes Python libraries such as osmnx and GeoPandas to fetch, process, and analyze spatial data. The workflow involves the following steps:
 
@@ -130,7 +130,7 @@ This analysis supports urban planning initiatives by providing insights into bui
 #### Link to Project: [GE 197: Exercise 1 - Handling Geospatial Data](https://colab.research.google.com/drive/10_zOpsQ1UPAgxYwMC4vzFUI-VobPIBjD?usp=sharing)
     
 
-### 8. Spatial Statistics on TripAdvisor
+### 9. Spatial Statistics on TripAdvisor
 
 #### Description
 Performed spatial statistical analysis to examine housing price patterns across Metro Manila. Utilized tools like GeoPandas and PySAL to explore spatial autocorrelation and clustering.
