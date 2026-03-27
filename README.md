@@ -32,6 +32,15 @@ This map explores the spatial overlap between land surface temperature (LST) and
 
 <img src="/images/biv_map.png" alt="Alt text" width="500"> <img src="/images/hist_plot.png" alt="Alt text" width="500">
 
+### 2. Where is Internet Fast, and Where it isn't
+
+#### Description
+Sourced from the 2025 Ookla dataset, this map shows the download speeds per pixel, derived from Ookla tests. on mobile devices with GPS-quality location and a cellular connection type (WiFi, ethernet). The spatial patterns reveal significant variation in connectivity, underscoring the country’s digital divide.
+
+#### Link to [LinkedIn Post](https://www.linkedin.com/posts/christon-ledge-paliza_geomatics-gis-spatialanalytics-activity-7442840595116572672-gV6p?utm_source=share&utm_medium=member_desktop&rcm=ACoAADbRfd8BOLjK6axqeDealjRLmS-bBJk7okM)
+
+<img src="/images/biv_map.png" alt="Alt text" width="500"> <img src="/images/hist_plot.png" alt="Alt text" width="500">
+
 ### 2. Accessibility and Centrality Analysis (Team)
 
 #### Description 
